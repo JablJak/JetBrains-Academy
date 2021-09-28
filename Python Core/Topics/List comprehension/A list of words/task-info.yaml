@@ -1,0 +1,12 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: '# work with the preset variable `words`'
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6320#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Tue, 07 Sep 2021 07:11:50 UTC
+record: -1
